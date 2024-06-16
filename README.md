@@ -13,13 +13,17 @@ A simple Stopwatch app built with Android that displays minutes, seconds, and mi
 ### Clone the Repository
 
 git clone https://github.com/Sakshi-Ambekar/Prodigy_AD_03.git
+</br>
 cd Prodigy_AD_03
 
 # Open in Android Studio
 
 1.Open Android Studio.
+</br>
 2. Click on Open an existing Android Studio project.
+</br>
 3. Navigate to the cloned repository and select it.
+</br>
 4. Let Android Studio import the project and download any necessary dependencies.
 
 # Run the App
