@@ -12,7 +12,6 @@ A simple Stopwatch app built with Android that displays minutes, seconds, and mi
 
 ### Clone the Repository
 
-```sh
 git clone https://github.com/Sakshi-Ambekar/Prodigy_AD_03.git
 cd Prodigy_AD_03
 
